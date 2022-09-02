@@ -1,16 +1,16 @@
-## First Name Last Name
+## Brayden Huffman
 
-### Term Year 
+### 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Course 1 calc 1
 
-- Course 2
+- Course 2 Intro to data science
 
-- Course 3
+- Course 3 Intro to python
 
-- Course 4
+- Course 4 Intro to computation and programming
 
 **Hobbies:**
 
